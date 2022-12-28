@@ -1,5 +1,7 @@
 # 💫 About Me:
-I’m currently working as a Java full stack developer 
+Java full stack developer with react. 
+Passionate to work on challenging ideas. 
+Interested to learn new technologies and being master in it. 
 
 
 # 💻 Tech Stack:
@@ -12,8 +14,6 @@ I’m currently working as a Java full stack developer
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mameshmohan&icon=0&color=0)](https://visitcount.itsvg.in)
