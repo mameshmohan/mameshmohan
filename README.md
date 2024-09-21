@@ -1,5 +1,5 @@
 # 💫 About Me:
-Java full stack developer with react. 
+Java full stack developer. 
 Passionate to work on challenging ideas. 
 Interested to learn new technologies and being master in it. 
 
